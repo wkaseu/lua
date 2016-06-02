@@ -9,5 +9,5 @@ function fact(n)
 end
 
 print("enter a number:")
-a = io.read("*number")
+a = io.read("*number")                --read number from standard io
 print(fact(a))
